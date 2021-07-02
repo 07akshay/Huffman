@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+akcompress/__init__.py
+akcompress.egg-info/PKG-INFO
+akcompress.egg-info/SOURCES.txt
+akcompress.egg-info/dependency_links.txt
+akcompress.egg-info/top_level.txt
